@@ -10,10 +10,6 @@
 
 5) The "nose" div is a brown-colored triangular shape that appears below the eyes.
 
-6) In the CSS section, various styles are applied to create the appearance of the cartoon face, including positioning, sizing, and colors.
+# Future Improvement 
 
-7) JavaScript is used to track the mouse cursor's movement (document.onmousemove). It calculates the mouse's X and Y coordinates as percentages of the window's width and height, respectively.
-
-8) Inside the mousemove event handler, it iterates through the "ball" elements and updates their positions and transformations based on the mouse coordinates, creating the effect of the eyes following the cursor.
-
- this code creates a visually appealing and interactive cartoon face that responds to the user's mouse movements by making the eyes follow the cursor.
+This program currently only eye movement  Future improvements in nose and mouth movement using Javascript are other language 
